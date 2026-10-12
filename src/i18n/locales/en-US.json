@@ -1,0 +1,51 @@
+{
+  "exportButton": {
+    "label": "Export",
+    "tooltip": "Download this conversation as Markdown",
+    "exporting": "Exporting…",
+    "failed": "Export failed"
+  },
+  "transcript": {
+    "metadata": {
+      "model": "Model",
+      "created": "Created",
+      "updated": "Updated",
+      "link": "Link",
+      "exported": "Exported"
+    },
+    "speaker": {
+      "human": "User",
+      "assistant": "Claude"
+    },
+    "thoughtProcess": "Thought process",
+    "toolInput": "Input",
+    "toolResult": "Result",
+    "toolError": "The tool reported an error.",
+    "attachment": "Attachment: {{fileName}}",
+    "file": "File: {{fileName}}",
+    "untitled": "Untitled conversation"
+  },
+  "selection": {
+    "enterToggle": "Multi-select mode",
+    "exitToggle": "Exit multi-select mode (Esc)",
+    "count_one": "{{count}} selected",
+    "count_other": "{{count}} selected",
+    "selectAll": "Select all",
+    "archive": "Archive",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "back": "Back",
+    "confirm": "Confirm",
+    "confirmArchive_one": "Archive {{count}} conversation? Archived chats no longer appear in claude.ai's lists.",
+    "confirmArchive_other": "Archive {{count}} conversations? Archived chats no longer appear in claude.ai's lists.",
+    "confirmDelete_one": "Permanently delete {{count}} conversation? This cannot be undone.",
+    "confirmDelete_other": "Permanently delete {{count}} conversations? This cannot be undone.",
+    "archiving_one": "Archiving {{count}} conversation…",
+    "archiving_other": "Archiving {{count}} conversations…",
+    "deleting_one": "Deleting {{count}} conversation…",
+    "deleting_other": "Deleting {{count}} conversations…",
+    "partialFailure_one": "{{succeeded}} done. {{count}} failed and is still selected.",
+    "partialFailure_other": "{{succeeded}} done. {{count}} failed and are still selected.",
+    "reload": "Reload"
+  }
+}

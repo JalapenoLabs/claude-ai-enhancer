@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Claude.ai Enhancer"
+  },
+  "extensionDescription": {
+    "message": "Export Claude.ai conversations to Markdown, and archive or delete chats and Claude Code sessions in bulk."
+  }
+}
